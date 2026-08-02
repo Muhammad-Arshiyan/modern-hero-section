@@ -23,11 +23,11 @@ A modern, responsive Hero Section built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📁 Project Structure
 
-```text
 modern-hero-section/
-index.html
-style.css
-script.js
+│
+├── index.html
+├── style.css
+└── script.js
 
 ## 🚀 Getting Started
 
