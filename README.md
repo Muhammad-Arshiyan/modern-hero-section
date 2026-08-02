@@ -76,7 +76,6 @@ This project helps you practice:
 
 * Semantic HTML
 * CSS Flexbox
-* CSS Grid
 * Responsive Design
 * CSS Variables
 * Media Queries
