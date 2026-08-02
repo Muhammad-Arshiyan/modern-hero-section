@@ -64,7 +64,6 @@ Open **index.html** in your preferred browser or launch the project using **Live
 ## 💻 JavaScript Features
 
 - `classList.add()`
-- `classList.remove()`
 - `classList.toggle()`
 - `classList.contains()`
 - `classList.replace()`
