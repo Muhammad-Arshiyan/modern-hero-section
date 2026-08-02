@@ -122,7 +122,7 @@ Contributions, issues, and feature requests are welcome.
 **Muhammad Arshiyan**  
 **Frontend Developer**
 
-Passionate about building modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.
+Passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications using HTML5, CSS3, JavaScript (ES6), React, Bootstrap, and Tailwind CSS. Committed to writing clean, maintainable code and creating seamless user experiences across all devices.
 
 ### Connect with Me
 
