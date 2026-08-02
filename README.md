@@ -1,17 +1,17 @@
 # 🚀 Modern Hero Section
 
-A modern, responsive Hero Section built with **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates responsive web design, dark/light mode implementation, semantic HTML, and clean JavaScript using the `classList` API.
+A modern, responsive Hero Section built with **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates responsive web design, semantic HTML, dark/light mode implementation, and clean JavaScript using the `classList` API.
 
 ---
 
 ## ✨ Features
 
-- 📱 Responsive Layout
-- 🌙 Dark / Light Mode
+- 📱 Fully Responsive Layout
+- 🌙 Dark / Light Mode Toggle
 - 🍔 Responsive Mobile Navigation
-- 🎨 Modern & Clean UI
+- 🎨 Modern & Clean User Interface
 - ⚡ JavaScript DOM Manipulation
-- 🔄 Theme Toggle using `classList.toggle()`
+- 🔄 Theme Switching with `classList.toggle()`
 - 🎯 Dynamic Icon Switching
 - ♿ Semantic HTML5 Structure
 - 🧹 Clean & Organized Code
@@ -36,6 +36,9 @@ modern-hero-section/
 ├── index.html
 ├── style.css
 ├── script.js
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
@@ -56,7 +59,7 @@ cd modern-hero-section
 
 ### 3. Run the Project
 
-Open **index.html** in your browser or start **Live Server** in VS Code.
+Open **index.html** in your preferred browser or launch the project using **Live Server** in Visual Studio Code.
 
 ---
 
@@ -75,13 +78,13 @@ Open **index.html** in your browser or start **Live Server** in VS Code.
 
 ## 📚 Learning Concepts
 
-This project is great for learning:
+This project helps you practice:
 
 - Semantic HTML5
 - CSS Variables
 - CSS Flexbox
-- Media Queries
 - Responsive Web Design
+- Media Queries
 - Dark / Light Theme
 - JavaScript DOM
 - Event Handling
@@ -92,11 +95,10 @@ This project is great for learning:
 
 ## 📸 Preview
 
-Add your project screenshot here.
+<img width="1366" height="728" alt="Light-Dark Theme - Google Chrome 8_2_2026 6_44_51 PM" src="https://github.com/user-attachments/assets/aadfba94-828a-424e-96b5-1cd4be9db927" />
 
-```text
-assets/images/preview.png
-```
+<img width="1366" height="728" alt="Light-Dark Theme - Google Chrome 8_2_2026 6_44_58 PM" src="https://github.com/user-attachments/assets/5faab4ed-793d-49c5-9beb-6c030c33a3af" />
+
 
 ---
 
@@ -104,12 +106,25 @@ assets/images/preview.png
 
 Contributions, issues, and feature requests are welcome.
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
+1. Fork the repository.
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
 
+---
+
+## 👨‍💻 Author
+
+**Muhammad Arshiyan**  
+**Frontend Developer**
+
+Passionate about building modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, and React.
+
+### Connect with Me
+
+- GitHub: https://github.com/Muhammad-Arshiyan
+  
 ---
 
 ## 📄 License
@@ -120,4 +135,4 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ Support
 
-If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
+If you found this project helpful, please consider giving this repository a **⭐ Star** on GitHub.
