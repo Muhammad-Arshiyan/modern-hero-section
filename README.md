@@ -25,17 +25,9 @@ A modern, responsive Hero Section built using **HTML**, **CSS**, and **JavaScrip
 
 ```text
 modern-hero-section/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-```
+index.html
+style.css
+script.js
 
 ## 🚀 Getting Started
 
