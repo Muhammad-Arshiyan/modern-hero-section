@@ -24,7 +24,6 @@ A modern, responsive Hero Section built using **HTML**, **CSS**, and **JavaScrip
 ## 📁 Project Structure
 
 modern-hero-section/
-│
 ├── index.html
 ├── style.css
 └── script.js
