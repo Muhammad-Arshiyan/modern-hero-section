@@ -37,8 +37,6 @@ modern-hero-section/
 ├── style.css
 ├── script.js
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
