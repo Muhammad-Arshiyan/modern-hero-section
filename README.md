@@ -1,6 +1,6 @@
 # 🚀 Modern Hero Section
 
-A modern, responsive Hero Section built with **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates responsive web design, semantic HTML, dark/light mode implementation, and clean JavaScript using the `classList` API.
+A modern, responsive Hero Section built with **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates responsive web design, semantic HTML5, dark/light mode implementation, and clean DOM manipulation using JavaScript `classList` methods.
 
 ---
 
