@@ -34,9 +34,8 @@ A modern, responsive Hero Section built with **HTML5**, **CSS3**, and **JavaScri
 ```text
 modern-hero-section/
 ├── index.html
-├── README.md
-├── LICENSE
-└── .gitignore
+├── style.css
+├── script.js
 ```
 
 ---
