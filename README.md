@@ -24,9 +24,22 @@ A modern, responsive Hero Section built using **HTML**, **CSS**, and **JavaScrip
 ## 📁 Project Structure
 
 modern-hero-section/
+│
+├── 📁 assets/
+│   ├── 📁 css/
+│   │   └── style.css
+│   ├── 📁 js/
+│   │   └── script.js
+│   └── 📁 images/
+│       ├── hero.png
+│       ├── logo.svg
+│       └── favicon.ico
+│
 ├── index.html
-├── style.css
-└── script.js
+├── README.md
+├── LICENSE
+├── .gitignore
+└── screenshot.png
 
 ## 🚀 Getting Started
 
