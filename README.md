@@ -95,10 +95,13 @@ This project helps you practice:
 
 ## 📸 Preview
 
-<img width="1366" height="728" alt="Light-Dark Theme - Google Chrome 8_2_2026 6_44_51 PM" src="https://github.com/user-attachments/assets/aadfba94-828a-424e-96b5-1cd4be9db927" />
+### ☀️ Light Mode
 
-<img width="1366" height="728" alt="Light-Dark Theme - Google Chrome 8_2_2026 6_44_58 PM" src="https://github.com/user-attachments/assets/5faab4ed-793d-49c5-9beb-6c030c33a3af" />
+<img width="100%" alt="Light Mode Preview" src="https://github.com/user-attachments/assets/aadfba94-828a-424e-96b5-1cd4be9db927" />
 
+### 🌙 Dark Mode
+
+<img width="100%" alt="Dark Mode Preview" src="https://github.com/user-attachments/assets/5faab4ed-793d-49c5-9beb-6c030c33a3af" />
 
 ---
 
