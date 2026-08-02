@@ -77,7 +77,6 @@ This project helps you practice:
 * Semantic HTML
 * CSS Flexbox
 * Responsive Design
-* CSS Variables
 * Media Queries
 * JavaScript DOM
 * Event Handling
